@@ -5,14 +5,14 @@
 ![Visitors](https://komarev.com/ghpvc/?username=MUGENDIRAN&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
-- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
-- AI-powered recommendation system for an e-commerce platform using TensorFlow.
+- currently working on artificial intelligence project.
+- Front end development
 
 ## 🏅 Certifications and Achievements
-- IT Specialist - Python [Certiport](https://www.certiport.com/)
-- CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
-- Star Performer, Full Stack Java Training Program (TNS India Foundation)
-- Participated in MINeD Hackathon 2024, focusing on ResumeRevealer problem statement with team Cyber-X.
+- Python basics - Python [Hacker Rank](https://www.certiport.com/)
+- java basics [Skill Rack](https://www.netacad.com/)
+- introduction to MongoDb[MongoDb](https://www.netacad.com/)
+- web development Training (HTML ,CSS) [codsoft](https://www.netacad.com/)
 
 ## 📝 Latest Articles
 - [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
